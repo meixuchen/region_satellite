@@ -1,0 +1,24 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - geopandas=0.6.2
+  - glob2
+  - numpy
+  - requests
+  - rasterio = 1.1.3
+  - scikit-learn
+  - scikit-image
+  - gdal = 2.4.4
+  - pip
+  - matplotlib
+  - descartes
+  - seaborn
+  - pip:
+      - jupyter-server-proxy
+      - nbserverproxy
+      - wget==3.2
+      - folium==0.10.0
+      - rio-l8qa==0.1.1
+      - landsat578==0.4.9
