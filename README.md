@@ -1,20 +1,20 @@
-# Infrastructure For Reproducibility
+# Infrastructure for reproducibility
 
 ## Build a Docker image of our repository
 
-Go to: https://mybinder.org/, then enter: https://github.com/meixuchen/region_satellite. Click launch. 
+Go to :https://mybinder.org/, then enter: https://github.com/meixuchen/region_satellite as Github, Click launch. 
 
-It will take a while to build a Docker image in your local machine the first time. If an image has already been built for a given repository, it will not be rebuilt next time. 
+It will take about a while to build a Docker image in your local machine at the first time. If an image has already been built for the given repository, it will not be rebuilt next time. 
 
-Alternatively, click on: https://mybinder.org/v2/gh/meixuchen/region_satellite/master to interact directly with the Binder we created and shared in the server.
+Aleternatively, enter: https://mybinder.org/v2/gh/meixuchen/region_satellite/master to directly interact with the Binder we created and shared in the server.
 
-## Interacting with the notebook
+## Interacting with the notebooks
 
-As a JupyterLab instance has already been built, a JupyterHub server will host you to our repository's content. You can open the notebook and start reproducing our results. 
+Since it is built, A JupyterHub server will host you to our repository's content. You can open the notebook and start reproducing the results. 
 
 You are good to go to reproduce the paper!
 
-**NOTE**: The image downloading section will not work on Binder give data storage constraints, so please skip the image downloading and cropping sections of the notebook and continue from the mosaicing section. 
+Note:The images download part will not work on Binder, so please skip downloading and cropping parts and continue with the mosaicing. 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
