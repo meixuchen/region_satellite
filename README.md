@@ -6,7 +6,7 @@ Go to: https://mybinder.org/, then enter: https://github.com/meixuchen/region_sa
 
 It will take a while to build a Docker image in your local machine the first time. If an image has already been built for a given repository, it will not be rebuilt next time. 
 
-Alternatively, click on: https://mybinder.org/v2/gh/meixuchen/region_satellite/master to directly interact with the Binder we created and shared in the server.
+Alternatively, click on: https://mybinder.org/v2/gh/meixuchen/region_satellite/master to interact directly with the Binder we created and shared in the server.
 
 ## Interacting with the notebook
 
