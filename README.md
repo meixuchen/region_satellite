@@ -14,7 +14,7 @@ As a JupyterLab instance has already been built, a JupyterHub server will host y
 
 You are good to go to reproduce the paper!
 
-**NOTE**: The images download section will not work on Binder give data storage constraints, so please skip the downloading and cropping sections of the notebook and continue from the mosaicing section. 
+**NOTE**: The image downloading section will not work on Binder give data storage constraints, so please skip the image downloading and cropping sections of the notebook and continue from the mosaicing section. 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
