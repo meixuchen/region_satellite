@@ -14,7 +14,7 @@ As the image has already been built, a JupyterHub server will host you to our re
 
 You are good to go to reproduce the paper!
 
-**Note**: The image downloading section of the notebook will not work on Binder, so please skip the downloading and cropping sections and continue from the mosaicing section. 
+**Note**: The image downloading section of the notebook will not work on Binder, so please skip the downloading and cropping sections and continue from the mosaicking section. 
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
