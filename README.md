@@ -1,6 +1,6 @@
 # Infrastructure For Reproducibility
 
-[Meixu Chen]() [[]()]<sup>1</sup>
+[Meixu Chen]() <sup>1</sup>
 [Dominik Fahrner]() [[`@DominikFahrner`](https://twitter.com/DominikFahrner)]<sup>2</sup>
 [Dani Arribas-Bel](http://darribas.org) [[`@darribas`](https://twitter.com/darribas)]<sup>1</sup>
 [Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1</sup>
