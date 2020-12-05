@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
+
 # Infrastructure For Reproducibility
 
 [Meixu Chen]() <sup>1</sup>
@@ -7,6 +9,10 @@
 
 <sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
 <sup>2</sup> *Institute for Risk and Uncertainty, University of Liverpool, Liverpool, United Kingdom*
+
+This repository provides the required infraestructure to replicate the analysis reported in: [A reproducible notebook to acquire, process and analyse satellite imagery: Exploring long-term urban changes](https://doi.org/10.18335/region.v7i2.295)
+
+Follow the instructions below to replicate the analysis via *Binder*.
 
 ## Build a Docker image of our repository
 
@@ -25,4 +31,4 @@ You are good to go to reproduce the paper!
 **Note**: The image downloading section of the notebook will not work on Binder, so please skip the downloading and cropping sections and continue from the mosaicking section. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
+
