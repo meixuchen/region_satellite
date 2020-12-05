@@ -31,5 +31,13 @@ You are good to go to reproduce the paper!
 
 **Note**: The image downloading section of the notebook will not work on Binder, so please skip the downloading and cropping sections and continue from the mosaicking section. 
 
+# Citation
 
+@software{gds_env,
+  author = {Meixu Chen and Dominik Fahrner and Dani Arribas-Bel and Francisco Rowe},
+  title = {Python notebook for the extraction and analysis of satellite imagery},
+  url = {https://zenodo.org/badge/latestdoi/275460379},
+  version = {3.0},
+  date = {05-12-2020},
+}
 
