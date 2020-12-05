@@ -31,7 +31,7 @@ You are good to go to reproduce the paper!
 
 **Note**: The image downloading section of the notebook will not work on Binder, so please skip the downloading and cropping sections and continue from the mosaicking section. 
 
-# Citation
+## Citation
 
 ```bibtex
 @software{chen_el_al_2020,
