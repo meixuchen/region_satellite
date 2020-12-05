@@ -33,11 +33,12 @@ You are good to go to reproduce the paper!
 
 # Citation
 
-> @software{chen_el_al_2020,
+```bibtex
+@software{chen_el_al_2020,
   author = {Meixu Chen and Dominik Fahrner and Dani Arribas-Bel and Francisco Rowe},
   title = {Python notebook for the extraction and analysis of satellite imagery},
   url = {https://zenodo.org/badge/latestdoi/275460379},
   version = {3.0},
   date = {05-12-2020},
 }
-
+```
