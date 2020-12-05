@@ -2,10 +2,10 @@
 
 # Infrastructure For Reproducibility
 
-[Meixu Chen]() <sup>1</sup>,
-[Dominik Fahrner]() [[`@DominikFahrner`](https://twitter.com/DominikFahrner)]<sup>2</sup>
-[Dani Arribas-Bel](http://darribas.org) [[`@darribas`](https://twitter.com/darribas)]<sup>1</sup>
-[Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1</sup>
+[Meixu Chen]()<sup>1</sup>,
+[Dominik Fahrner]() [[`@DominikFahrner`](https://twitter.com/DominikFahrner)]<sup>2</sup>,
+[Dani Arribas-Bel](http://darribas.org) [[`@darribas`](https://twitter.com/darribas)]<sup>1</sup>,
+[Francisco Rowe](http://www.franciscorowe.com) [[`@fcorowe`](http://twitter.com/fcorowe)]<sup>1</sup,
 
 <sup>1</sup> *Geographic Data Science Lab, University of Liverpool, Liverpool, United Kingdom*
 <sup>2</sup> *Institute for Risk and Uncertainty, University of Liverpool, Liverpool, United Kingdom*
