@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meixuchen/region_satellite/master)
+[![DOI](https://zenodo.org/badge/275460379.svg)](https://zenodo.org/badge/latestdoi/275460379)
 
 # Infrastructure For Reproducibility
 
